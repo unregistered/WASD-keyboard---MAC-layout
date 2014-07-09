@@ -1,3 +1,5 @@
+> This is a forked version, be sure to check out the original first.
+
 ![Alt text](wasd.JPG "Example")
 
      Mac Layout file for custom WASD Keyboard.
